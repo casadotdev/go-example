@@ -1,0 +1,5 @@
+{
+    "name": "hello-world",
+    "description": "get the aprty go-ing in the casa already",
+    "cmd": "go run main.go"
+}
